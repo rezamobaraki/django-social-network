@@ -2,7 +2,7 @@
 
 ![python](icon.jpg)
 
-Hello friends of this [Mr.Rezoo](https://www.linkedin.com/in/mrrezoo/)
+Hello friends of this [Reza Mobaraki](https://www.linkedin.com/in/rezamobaraki/)
 
 ## Table of contents
 
@@ -74,7 +74,7 @@ source venv/bin/activate
 
 ## Contributors
 
-* [MrRezoo](https://github.com/MrRezoo)
+* [Reza Mobaraki](https://github.com/rezamobaraki)
 
 ## License
 
