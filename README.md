@@ -2,7 +2,7 @@
 
 ![python](icon.jpg)
 
-Hello friends of this [Reza Mobaraki](https://www.linkedin.com/in/rezamobaraki/)
+Hello friends of this [Reza Mobaraki](https://www.linkedin.com/in/reza-mobaraki/)
 
 ## Table of contents
 
